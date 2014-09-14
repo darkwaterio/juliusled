@@ -1,7 +1,8 @@
-Julius ROV LED Array
-==========
+#Julius ROV LED Array#
 
-This is the repository for the PCB files for the Julius ROV LED Array. As well as the PCB you will need the following:
+This is the repository for the PCB files for the Julius ROV LED Array. They are in Eagle PCB v7.0 format. I have also included the Gerber files for [Ragworm](http://ragworm.eu/) and [OSH Park](https://oshpark.com/).
+
+As well as the PCB you will need the following:
 
 * 1 x 3 pin header
 * 1 x Mosfet IRL540N or similar logic level Mosfet
@@ -11,3 +12,9 @@ This is the repository for the PCB files for the Julius ROV LED Array. As well a
 * 7 x 5mm LEDs - I used these https://www.sparkfun.com/products/531
 
 Solder the resistors first, then the LEDs then the other components - it makes things simpler :)
+
+##How they look##
+
+![ROV Front](https://pbs.twimg.com/media/BvBwZLxCYAAaY41.jpg)
+
+![ROV Back](https://pbs.twimg.com/media/BvBwXa-CAAAJkek.jpg)
