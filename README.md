@@ -18,3 +18,9 @@ Solder the resistors first, then the LEDs then the other components - it makes t
 ![ROV Front](https://pbs.twimg.com/media/BvBwZLxCYAAaY41.jpg)
 
 ![ROV Back](https://pbs.twimg.com/media/BvBwXa-CAAAJkek.jpg)
+
+##Powered and lit with blue LEDs##
+
+I made one board up with [blue LEDs](https://www.sparkfun.com/products/529) - this is what it looks like powered up and on a low power level. 
+
+![ROV on](https://pbs.twimg.com/media/BvQyyagIgAEYhiZ.jpg)
